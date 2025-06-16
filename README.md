@@ -28,4 +28,4 @@ chmod stands for "Change Mode", the Unix command for setting file permissions. `
 
 I then connected to the server from my Mac Terminal using ```ssh -i ~/.ssh/private_key yourUser@yourWebsite```. The -i in the command tells SSH which private-key file to use.
 
-I'm then prompted to enter my password (which I also set up in cPanel), and I was in!
+I'm then prompted to enter my password (which I also set up in cPanel), and I was in! To log out, I would simply enter the logout command at the shell prompt.
